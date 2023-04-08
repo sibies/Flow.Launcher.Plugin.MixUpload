@@ -1,5 +1,5 @@
 ﻿using System.Windows.Controls;
-using Flow.Launcher.Plugin.MixUpload.Core;
+using MixUpload.Net;
 
 namespace Flow.Launcher.Plugin.MixUpload
 {
